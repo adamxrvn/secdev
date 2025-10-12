@@ -9,7 +9,7 @@
 
 - **ФИО:** Терло Адам Зурабович
 - **Группа:** МСПИН241
-- **Контакт:** TODO: `azalkhanashvili@edu.hse.ru` / `@terloadam`
+- **Контакт:** `azalkhanashvili@edu.hse.ru` / `@terloadam`
 
 
 ---
