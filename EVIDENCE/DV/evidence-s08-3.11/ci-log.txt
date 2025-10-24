@@ -1,0 +1,6 @@
+===== CI RUN INFO =====
+Date: Mon Oct 24 18:22:56 UTC 2025
+Commit: 6f86aee6622a0287fed8937fd7d7d4f35aa5614c
+Branch: refs/heads/main
+Python: 3.11
+========================
